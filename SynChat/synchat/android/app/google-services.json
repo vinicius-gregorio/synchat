@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659001487524",
+    "firebase_url": "https://synchat-f5398.firebaseio.com",
+    "project_id": "synchat-f5398",
+    "storage_bucket": "synchat-f5398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659001487524:android:3f3f174b9eb7e75c24f631",
+        "android_client_info": {
+          "package_name": "com.synjolt.synchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659001487524-g78gtgvrm5k37knrqljmolfjkn0ea1a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArF8MojqwKtknL1I85CHjRqcN5clI6e9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659001487524-g78gtgvrm5k37knrqljmolfjkn0ea1a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
