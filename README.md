@@ -1,0 +1,2 @@
+# synchat
+A chat application 
